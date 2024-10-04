@@ -2,12 +2,6 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-###
-
-<img align="right" height="255" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
-
-###
-
 <div align="left" width="200px" >
 
 <p align="left" >👋 Hello, I'm Gerardo, a seasoned Full Stack Software Engineer based in the beautiful landscapes of Costa Rica. With over a decade of experience in the software development realm, I have honed my skills in creating robust and innovative solutions.
@@ -29,8 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
@@ -43,8 +35,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
@@ -55,9 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
